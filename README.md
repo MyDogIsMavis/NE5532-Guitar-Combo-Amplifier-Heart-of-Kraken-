@@ -61,7 +61,7 @@ Unlike many hobby projects based on existing schematics, the entire architecture
 ## Hardware Architecture
 
 <p align="center">
-  <img src="images/stages_amp.drawio.svg" width="900" alt="High-level functional block diagram">
+  <img src="images/stages_amp.drawio.drawio.svg" width="900" alt="High-level functional block diagram">
 </p>
 
 <p align="center">
