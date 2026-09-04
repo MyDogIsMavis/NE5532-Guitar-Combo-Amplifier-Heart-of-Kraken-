@@ -278,14 +278,14 @@ This routing was chosen to keep the high-current path from the VT2 output transi
 </p>
 
 <p align="center">
-Figure 12. Schematic of the amplifier - Revision 2
+Figure 11. Schematic of the amplifier - Revision 2
 </p>
 
 <p align="center">
   <img src="images/pcb_ver2.png" width="900" alt="PCB layout of Revision 2">
 </p>
 <p align="center">
-Figure 11. PCB layout - Revision 2
+Figure 12. PCB layout - Revision 2
 </p>
 
 The second revision was manufactured and is currently awaiting hardware testing.
